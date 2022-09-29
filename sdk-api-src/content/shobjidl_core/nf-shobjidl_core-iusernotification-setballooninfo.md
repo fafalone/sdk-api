@@ -110,9 +110,9 @@ One or more of the following values that indicate an icon to display in the noti
 
 
 
-#### NIIF_LARGE_ICON (0x00000010)
+#### NIIF_LARGE_ICON (0x00000020)
 
-0x00000010. <b>Windows Vista and later</b>. The large version of the icon should be used as the icon in the notification balloon. This corresponds to the icon with dimensions SM_CXICON x SM_CYICON. If this flag is not set, the icon with dimensions XM_CXSMICON x SM_CYSMICON is used. 
+0x00000020. <b>Windows Vista and later</b>. The large version of the icon should be used as the icon in the notification balloon. This corresponds to the icon with dimensions SM_CXICON x SM_CYICON. If this flag is not set, the icon with dimensions XM_CXSMICON x SM_CYSMICON is used. 
 
                         
 
